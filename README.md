@@ -1,6 +1,6 @@
 # [Automatic Plant Watering System (AWPS)](https://circuitdigest.com/microcontroller-projects)
 
-<img src="" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Automatic-Plant-Watering-System/blob/5d36898209a4ca73aa8bd5e155e478615efd9b20/Title%20Image.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
